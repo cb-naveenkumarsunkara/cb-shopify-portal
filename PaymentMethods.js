@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.js";import{o as t,b as o}from"./index.js";const r={};function n(a,c){return t(),o("div",null," Payment Methods ")}var m=e(r,[["render",n]]);export{m as default};
