@@ -1,1 +1,1 @@
-import{_ as e}from"./plugin-vue_export-helper.js";import{o as t,b as o}from"./index.js";const r={};function n(a,c){return t(),o("div",null," Payment Methods ")}var m=e(r,[["render",n]]);export{m as default};
+import{openBlock as e,createElementBlock as t}from"vue";import{_ as r}from"./plugin-vue_export-helper.js";const o={};function n(c,a){return e(),t("div",null," Payment Methods ")}var s=r(o,[["render",n]]);export{s as default};

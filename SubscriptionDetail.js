@@ -1,1 +1,1 @@
-import{_ as e}from"./plugin-vue_export-helper.js";import{o as r,b as t}from"./index.js";const o={};function c(a,n){return r(),t("div",null," Detail ")}var _=e(o,[["render",c]]);export{_ as default};
+import{openBlock as e,createElementBlock as r}from"vue";import{_ as t}from"./plugin-vue_export-helper.js";const c={};function o(n,a){return e(),r("div",null," Detail ")}var l=t(c,[["render",o]]);export{l as default};
