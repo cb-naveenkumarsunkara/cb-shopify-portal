@@ -1,0 +1,1 @@
+import{d as e,o as s,e as n,h as r,j as _,C as a}from"./index.js";import{_ as o}from"./plugin-vue_export-helper.js";const t={class:"c-spinner-container"},c=e({setup(p){return(i,d)=>(s(),n("div",t,[r(_(a),{fill:"#4F46E5",class:"c-spinner"})]))}});var m=o(c,[["__scopeId","data-v-1746eb91"]]);export{m as S};
